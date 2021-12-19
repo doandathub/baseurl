@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "eGrammar",
+      "url": "https://apps.apple.com/app/id1494332956",
+      "urlscheme": "egrammar://",
+      "image": "https://raw.githubusercontent.com/doandat/BaseURL/master/reference/egrammar.png"
+    },
+{
+      "name": "3000 Vocabulary",
+      "urlscheme": "3000vocabulary://",
+      "url": "https://apps.apple.com/app/id1226373762",
+      "image": "https://raw.githubusercontent.com/doandat/BaseURL/master/reference/icon3000vocabulary.png"
+    }
+  ]
+}
